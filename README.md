@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developpement and more
 - 🌱 I’m currently in a BUT MMI ( multimedia and internet jobs)
 - 📫 romeolm2005@gmail.com
-- 🌐romeolm.fr
+- 🌐 www.romeolm.fr
 - ⚡ Fun fact: I coded my postfolio in 5 days from scratch
 
 <!---
