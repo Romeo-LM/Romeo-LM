@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Romeo-LM also knowed as Roméo or l'élu like my friends call me.
+- 👋 Hi, I’m @Romeo-LM also knowed as Roméo or roro like my friends call me.
 - 👀 I’m interested in web developpement and more
 - 🌱 I’m currently in a BUT MMI ( multimedia and internet jobs)
 - 📫 romeolm2005@gmail.com
+- 🌐romeolm.fr
 - ⚡ Fun fact: I coded my postfolio in 5 days from scratch
 
 <!---
